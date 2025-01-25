@@ -1,4 +1,4 @@
-const SENDGRID_API_KEY = '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'; // Replace with your actual API key
+const SENDGRID_API_KEY = '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'; // Replace with your actual API key
 const SENDGRID_ENDPOINT = 'https://api.sendgrid.com/v3/mail/send';
 
 async function sendEmail(formData) {
